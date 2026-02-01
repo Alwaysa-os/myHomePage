@@ -1,2 +1,31 @@
-# myHomePage
-just for Xzh
+# 夏泽昊 / Zehao Xia.
+
+**硕士研究生**，信息工程学院  
+中南财经政法大学 · 武汉，中国  
+
+📧 [xiazehao@stu.zuel.edu.cn](xiazehao@stu.zuel.edu.cn) · 🎓 [Google Scholar](https://scholar.google.com) · 💻 [GitHub](https://github.com) · 📄 [CV / 简历](#)
+
+---
+
+
+## 研究方向
+
+
+---
+
+## 代表性论文
+
+
+---
+
+## 教育与工作经历
+
+| 时间 | 经历 |
+|---|---|
+| 2025 – 至今 | **中南财经政法大学 · 硕士研究生在读**，信息工程学院 |
+| 2021 – 2025 | **中南财经政法大学 · 本科在读**，信息工程学院 |
+
+---
+
+
+*© 2026 夏泽昊 · 最后更新: 2026 年 1 月*
