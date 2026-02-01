@@ -3,7 +3,7 @@
 **硕士研究生**，信息工程学院  
 中南财经政法大学 · 武汉，中国  
 
-📧 [xiazehao@stu.zuel.edu.cn](xiazehao@stu.zuel.edu.cn) · 🎓 [Google Scholar](https://scholar.google.com) · 💻 [GitHub](https://github.com) · 📄 [CV / 简历](#)
+📧 [xiazehao@stu.zuel.edu.cn](xiazehao@stu.zuel.edu.cn) · 🎓 [Google Scholar](https://scholar.google.com) · 📄 [CV / 简历](#)
 
 ---
 
